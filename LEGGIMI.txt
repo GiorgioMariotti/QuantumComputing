@@ -1,0 +1,12 @@
+Per funzionare correttamente il programma ha bisogno dei seguenti requisiti:
+- JDK 1.5 o superiore;
+- Libreria commons-math3 di Apache;
+- immagini per le interfaccie grafiche.
+
+I jar della libreria di Apache sono già presenti nella cartella "librerieesterne", vanno importati
+come JAR esterni.
+
+Le immagini sono nella cartella "immagini". Vanno importate come cartella esterna di file per non avere
+problemi con il Java Build Path.
+
+Nella cartella del programma sono inoltre presenti JAR eseguibili dei singoli algoritmi realizzati.
